@@ -2,8 +2,14 @@
 
 <p>
       안녕하세요 저는 <em><b>뉴비</b></em> 개발자입니다!! 💻 <br>
-    <em>새로운 것들을 <b>시도<b>하는 것을 좋아하며 주어진 일에 대한 욕심</em>이 있는 사람입니다. 🎯 <br>
-    <em><b>많은사람들이 편리하고 쉽게</b> 이용할 수 있는 SW</em>를 만드는 것이 저의 목표입니다 😄 !!
+    <em>새로운 것들을 <b>시도<b>하는 것을 좋아하며 주어진 일에 대한 욕심</em> 이 있는 사람입니다. 🎯 <br>
+    <em><b>많은사람들이 편리하고 쉽게</b> 이용할 수 있는 SW</em> 를 만드는 것이 저의 목표입니다 😄 !!
+</p>
+ 
+<p>
+  Hello, I am a <b>NEWBIE</b> developer. 💻 <br>
+  I'm a person who likes to <em><br>try new things</b> and is greedy for a given task.</em>  🎯 <br>
+  My goal is to make software that is <em><b>convenient and easy<b/> to use for many people</em>. 😄 !!
 </p>
 
 ### Contacts 📫
@@ -29,8 +35,8 @@
 ### Databases
 <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="DBeaver" src="https://img.shields.io/badge/dbeaver-%846d5e.svg?&style=flat-square&logo=dbeaver&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="H2" src="https://img.shields.io/badge/h2-%2300f.svg?&style=flat-square&logo=h2&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="DBeaver" src="https://img.shields.io/badge/dbeaver-%23846d5e.svg?&style=flat-square&logo=dbeaver&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="H2" src="https://img.shields.io/badge/h2-%20%230011d1.svg?&style=flat-square&logo=h2&logoColor=white"/></a>
 
 ### Frameworks
 <a href="" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white"/></a>
