@@ -3,15 +3,15 @@
 ### Hello visitors~ 👋👋👋
 
 <p>
-    안녕하세요 🥰 저는 고등학생 3학년🎒 <em><b>뉴비</b></em> 개발자입니다!! 👩🏻‍💻 <br>
+    안녕하세요 🥰 저는 고등학생 3학년🎒 <em><b>뉴비</b></em> 개발자 신잎새 입니다. 👩🏻‍💻 <br>
     새로운 것들을 <b>시도<b>하는 것을 좋아하며 주어진 일에 대한 욕심이 있는 사람입니다. 🎯 <br>
-    <b>많은사람들이 편리하고 쉽게🤳</b> 이용할 수 있는 SW💻를 만드는 것이 저의 목표입니다 😄 !!
+    <b>많은사람들이 편리하고 쉽게🤳</b> 이용할 수 있는 SW💻를 만드는 것이 저의 목표입니다 😄 ‼️
 </p>
  
 <p>
-      Hello 🥰 I am a developer 👩🏻‍💻 of <em><b>Newbie</b></em> in the third grade of high school. 🎒  <br>
-  I'm a person who likes to <b>try new things</b> and is greedy for a given task.  🎯 <br>
-  My goal is to make software💻 that is <em><b>convenient and easy<b/>🤳 to use for many people</em>. 😄 !!
+      Hello 🥰 I am Ipsae Shin, a high school third grade🎒 <em><b>Newbie</b></em> developer. 👩🏻‍💻 <br>
+  I'm a person who likes to <b>try new things</b> and is greedy for a given task. 🎯 <br>
+  My goal is to make software💻 that is <em><b>convenient and easy<b/>🤳 to use for many people</em>. 😄 ‼️
 </p>
       
 ### Portfolio 📚
