@@ -1,14 +1,12 @@
 ### Hello visitors~ 👋👋👋
 
 <p>
-  <em>
-      안녕하세요 저는 <b>뉴비</b> 개발자입니다!! 💻 <br>
-    많은 것들을 <b>시도<b>하는 것을 좋아하며 주어진 일에 대한 욕심이 있는 사람입니다. 🎯 <br>
-    <b>많은사람들이 편리하고 쉽게</b> 이용할 수 있는 SW를 만드는 것이 저의 목표입니다 😄
-  </em>  
+      안녕하세요 저는 <em><b>뉴비</b></em> 개발자입니다!! 💻 <br>
+    <em>새로운 것들을 <b>시도<b>하는 것을 좋아하며 주어진 일에 대한 욕심</em>이 있는 사람입니다. 🎯 <br>
+    <em><b>많은사람들이 편리하고 쉽게</b> 이용할 수 있는 SW</em>를 만드는 것이 저의 목표입니다 😄 !!
 </p>
 
-###Contacts 📫
+### Contacts 📫
 * Email: s2019s13@e-mirim.hs.kr
 * Instagram DM: @s____is__
 
@@ -31,7 +29,7 @@
 ### Databases
 <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="DBeaver" src="https://img.shields.io/badge/dbeaver-%2300f.svg?&style=flat-square&logo=dbeaver&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="DBeaver" src="https://img.shields.io/badge/dbeaver-%846d5e.svg?&style=flat-square&logo=dbeaver&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="H2" src="https://img.shields.io/badge/h2-%2300f.svg?&style=flat-square&logo=h2&logoColor=white"/></a>
 
 ### Frameworks
@@ -45,7 +43,7 @@
 <a href="" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>
 
 ### Social
-<a href="https://www.instagram.com/s____is__/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/> </a>
+<a href="https://www.instagram.com/s____is__/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/> </a>
 <a href="https://www.facebook.com/profile.php?id=100009419736751" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 
