@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&footer&text=🐣+Ipsae+Shin+🐣&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&footer&text=🐣+Ipsae+Shin+🐣&fontSize=60&animation=twinkling)
 
 ### Hello visitors~ 👋👋👋
 
