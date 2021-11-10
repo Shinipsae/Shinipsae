@@ -19,7 +19,6 @@
 
 ### Contacts 💌
 * Email: s2019s13@e-mirim.hs.kr
-* Instagram DM: @s____is__
 
 ![Ipsae Shin's github stats](https://github-readme-stats.vercel.app/api?username=Shinipsae&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinipsae&layout=compact&langs_count=81)
